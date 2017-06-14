@@ -12,7 +12,7 @@
 #### FORO
 ![Foro](./capturas/foro1.png)
 
-#### GALERIA
+#### CHAT
 ![Chat](./capturas/chat1.png)
 
 #### CONOCENOS
